@@ -86,7 +86,7 @@ with st.sidebar:
     )
     st.header("Privacy")
     st.warning(
-        "This app is public. Do not upload confidential or personal files. "
+        "This app is private. upload confidential or personal files. "
         "Files are processed in memory and are not saved."
     )
     st.header("Supported files")
